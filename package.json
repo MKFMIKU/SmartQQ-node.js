@@ -1,0 +1,22 @@
+{
+  "name": "qq",
+  "version": "1.0.0",
+  "description": "smartQQ",
+  "main": "index.js",
+  "scripts": {
+    "login": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKFMIKU/SmartQQ-node.js.git"
+  },
+  "author": "MKFMIKU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MKFMIKU/SmartQQ-node.js/issues"
+  },
+  "homepage": "https://github.com/MKFMIKU/SmartQQ-node.js#readme",
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}
